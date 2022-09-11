@@ -8,6 +8,3 @@ The model performs with the following metrics:
 - Mean absolute error: 38737.4492
 - Root mean squared error: 55634.4648
 - R-squared: 0.7678
-
-## Conclusion
-Model can be further improved by fine-tuning hyperparameters
